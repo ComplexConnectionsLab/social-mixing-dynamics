@@ -24,4 +24,4 @@ More information is available at:
 
 ## Running the code
 
-Due to contractual and privacy obligations, we are unable to share the raw mobile phone data used in our analisys and required to power the scripts. However, access can be provided by Spectus Inc upon agreement and signature of the NDA. More information on data access for research can be found at [Spectus - "Data for Good" movement](https://spectus.ai/social-impact/#:~:text=Powering%20research%20%26%20academic%20teams%20globally,use%20of%20location%2Dbased%20data).
+Due to contractual and privacy obligations, we are unable to share the raw mobile phone data used in our analisys and required to power the scripts. However, access can be provided by Cuebiq upon agreement and signature of the NDA. More information on data access for research can be found at [Cuebiq - "Data for Good" movement]([https://spectus.ai/social-impact/#:~:text=Powering%20research%20%26%20academic%20teams%20globally,use%20of%20location%2Dbased%20data](https://www.cuebiq.com/about/data-for-good/)https://www.cuebiq.com/about/data-for-good/).
