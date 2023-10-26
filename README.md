@@ -2,7 +2,7 @@
 
 
 <figure>
-  <img src="/Files/ternary.jpg" alt="example" width="100%"/>
+  <img src="/fig/ternary.jpg" alt="example" width="100%"/>
   <figcaption><b>Income Triade Analysis: segregation dynamics</b> - 
 (<b>A</b>)The income triad illustrates the distribution of three income groups: high, medium, and low. The triangle's vertices represent these groups, with colour intensity indicating neighbourhood density. A neighbourhood's position within the triangle shows its income group visitation pattern. Arrows indicate temporal segregation trends, with direction predicting future patterns and thickness denoting neighbourhood density with similar trends.
 (<b>B</b>)Columns display segregation shifts across ALA clusters, while rows represent time bands: night-time, working hours, and evening leisure. Histograms beneath each triangle show the Gini coefficient segregation values for neighbourhoods within the same ALA cluster and time band.
