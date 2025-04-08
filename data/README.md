@@ -18,4 +18,5 @@ The CSV files in this repository provide aggregated data points extracted from t
 
 ## Contribution
 
-These datasets and accompanying notebooks were primarily developed by Lavinia Rossi Mori For questions, feedback, or issues, please open a ticket in this repository or contact lavinia.rossimori@cref.it
+These datasets and accompanying notebooks were primarily developed by Lavinia Rossi Mori.
+For questions, feedback, or issues, please open a ticket in this repository or contact lavinia.rossimori@cref.it
