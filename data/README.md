@@ -5,9 +5,7 @@ This repository contains aggregated data files used in the paper titled "Time dy
 
 ## Important Note on Raw Data
 
-Due to contractual and privacy obligations, we are unable to share the raw mobile phone data. However, interested parties can negotiate access to the data with Sony upon agreement and signature of the NDA. 
-
-The data supporting the findings of this study are also available from Cuebiq through their Data for Good program. Detailed information on how to request access to the data, along with its conditions and limitations, can be found at [Cuebiq - Data for Good program](https://www.cuebiq.com/about/data-for-good/).
+Due to contractual and privacy obligations, we are unable to share the raw mobile phone data. The mobile phone data that support the findings of this study were acquired by Sony from Cuebiq. Restrictions apply to the availability of these data, which were used under license for this study. However, researchers interested in the raw data can negotiate with Cuebiq access to this specific dataset. Detailed information on how to request access to the data, along with its conditions and limitations, can be found at Cuebiq - Data for Good program [Cuebiq - Data for Good program](https://www.cuebiq.com/about/data-for-good/).
 
 ## About the Aggregated Data
 
